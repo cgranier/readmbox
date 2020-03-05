@@ -50,7 +50,7 @@ def main():
         
         print("**************************************")
 
-    total_messages +=1
+        total_messages +=1
 
 
 
